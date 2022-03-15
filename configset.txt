@@ -1,0 +1,35 @@
+
+your_access_token
+
+  -> go to settings
+
+  -> left -> bottom developer setting
+
+  -> Personal access tokens -> Generate new ->Expiration :  no Expiration  -> Check all checkbox
+
+  -> Generate -> will new a token
+
+
+How to set config for git
+
+
+1. go to your project folder (my-test-repo)
+   -> show hidden files
+
+2. .git folder will be visible 
+
+3. go to .git folder -> config 
+
+4. config -> open with vs code
+
+5. under [remote "origin"]
+   -> url = https://your_username:your_access_token@github.com/vigneshpalainsamy/my-test-repo.git
+  
+
+
+confirmation check:
+
+cmd : git config --list
+
+
+remote.origin.url=https://your_username:your_access_token@github.com/vigneshpalainsamy/my-test-repo.git
