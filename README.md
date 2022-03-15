@@ -1,5 +1,14 @@
 Git commands
 
+install git
+
+git --version
+
+----------------------git succesfully installed------------------------
+
+
+steps:
+
 git clone https://github.com/vigneshpalainsamy/my-test-repo.git
 
 git status

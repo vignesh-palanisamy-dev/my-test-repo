@@ -1,0 +1,26 @@
+
+
+install node
+
+
+cmd promt
+
+-> node -v
+
+-> npm -v
+
+----------------node successfully install-----------------
+
+
+
+npx create-react-app your-app-name
+
+cd your-app-name
+
+npm start
+
+
+localhost -> react app run
+
+
+-----------------------------------------------------------
