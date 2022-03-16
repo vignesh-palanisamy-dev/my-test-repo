@@ -10,7 +10,7 @@ cmd promt
 -> npm -v
 
 ----------------node successfully install-----------------
-
+hai all
 
 
 npx create-react-app your-app-name
