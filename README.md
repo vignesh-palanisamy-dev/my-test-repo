@@ -34,3 +34,43 @@ git pull -> get changes from cloud to local
 git checkout your_required_branch_name
 
 git branch -> current branch you in!!
+
+
+git merge origin/your_target_main_branch
+
+------------------------------
+
+dev -> development branch
+
+anto
+indhu
+
+anto -> readme.md change -> push
+
+indhu -> react.text change -> push
+
+anto -> PR  -> dev
+indhu -> PR  -> dev
+
+2 pr merged
+
+anto and indhu changes are there in dev
+
+-------------------------
+
+anto needs all changes in dev to his own branch 
+
+git pull
+
+git merge origin/dev
+
+git push
+
+
+
+
+
+
+
+
+
